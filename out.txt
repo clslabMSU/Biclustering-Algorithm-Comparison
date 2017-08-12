@@ -1,0 +1,2262 @@
+Executed  2017-08-10 22:25:22
+( 0.84% ) Running dataset: narrow_100_10_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.794753086419753 
+		Relevance:  0.0625188555944
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.43065224478837 
+		Relevance:  0.236656675429658
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0297385620915033 
+		Relevance:  0.00828211866146794
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.713464052287582 
+		Relevance:  0.522393591695337
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.482872364281522 
+		Relevance:  0.242521685730196
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.0799089378634833 
+		Relevance:  0.0579467403183104
+( 1.68% ) Running dataset: narrow_100_10_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.547278265382786 
+		Relevance:  0.0605030844761836
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.461812637933472 
+		Relevance:  0.268099165641239
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.03274696401679 
+		Relevance:  0.0117998830923002
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.955763997452377 
+		Relevance:  0.472196994687027
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.469141244930347 
+		Relevance:  0.26647847662503
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.0610968777755005 
+		Relevance:  0.0432172447758096
+( 2.52% ) Running dataset: narrow_100_10_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.503950635990942 
+		Relevance:  0.0509832688938163
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.477991452991453 
+		Relevance:  0.203638188477873
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0329075260467223 
+		Relevance:  0.0156447136365414
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.69131664719267 
+		Relevance:  0.474502970671632
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.491947334391348 
+		Relevance:  0.24676801612521
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.0424765807962529 
+		Relevance:  0.0418711363380915
+( 3.36% ) Running dataset: narrow_100_20_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.99 
+		Relevance:  0.0707091061122552
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.819102297501169 
+		Relevance:  0.219620994288057
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.11873786407767 
+		Relevance:  0.0161493194314575
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.97459612775928 
+		Relevance:  0.583956390189189
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.857628831180773 
+		Relevance:  0.609299896140946
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.475445395218255 
+		Relevance:  0.340029141892858
+( 4.2% ) Running dataset: narrow_100_20_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.996666666666667 
+		Relevance:  0.0846693113783664
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.839546623950294 
+		Relevance:  0.176905501099905
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.118213656317088 
+		Relevance:  0.0188610949378699
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.980826654093981 
+		Relevance:  0.587274065535564
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.860394992064892 
+		Relevance:  0.621162087367324
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.504358974358974 
+		Relevance:  0.323949139356219
+( 5.04% ) Running dataset: narrow_100_20_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.0794878888704994
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.79463241686693 
+		Relevance:  0.205325403567734
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.115585323238206 
+		Relevance:  0.0178203285076328
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.765588558855886 
+		Relevance:  0.598203482055979
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.813572837177399 
+		Relevance:  0.609614774074021
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.484406154794504 
+		Relevance:  0.323177884348947
+( 5.88% ) Running dataset: narrow_100_30_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.0863251567020957
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.771642548870272 
+		Relevance:  0.135027814018802
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.178229470005824 
+		Relevance:  0.0287245226917547
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.668992383278098 
+		Relevance:  0.597451737217446
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.986798679867987 
+		Relevance:  0.874677266529096
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.7 
+		Relevance:  0.429026867627785
+( 6.72% ) Running dataset: narrow_100_30_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.0628273163100268
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.82693316060578 
+		Relevance:  0.156808799270265
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.181518151815182 
+		Relevance:  0.0323607608603155
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.698686371100164 
+		Relevance:  0.623863233111283
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.953302752293578 
+		Relevance:  0.848851915933856
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.651848184818482 
+		Relevance:  0.438663747280877
+( 7.56% ) Running dataset: narrow_100_30_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.074306381134335
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.829512163095236 
+		Relevance:  0.160764982916584
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.226797385620915 
+		Relevance:  0.0355178133633038
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.715516874268072 
+		Relevance:  0.594439126413867
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.963820673900628 
+		Relevance:  0.857072462298606
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.703333333333333 
+		Relevance:  0.427406275140788
+( 8.4% ) Running dataset: overlap_0_0_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.259900972391713
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.761904761904762 
+		Relevance:  0.164073597406931
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2 
+		Relevance:  0.0629523809523809
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.594444444444444 
+		Relevance:  0.430682986117769
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.888087119027907
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.968253968253968 
+		Relevance:  0.589285714285714
+( 9.24% ) Running dataset: overlap_0_0_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.273122624953245
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.80952380952381 
+		Relevance:  0.160613612570715
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0546450216450216
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.57631874298541 
+		Relevance:  0.368367861033302
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.88959268930989
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.96969696969697 
+		Relevance:  0.590513833992095
+( 10.08% ) Running dataset: overlap_0_0_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.255620538881408
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.857142857142857 
+		Relevance:  0.195401773395769
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.216666666666667 
+		Relevance:  0.0724545454545453
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.478236083165661 
+		Relevance:  0.409183023942749
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.889647143228456
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.984126984126984 
+		Relevance:  0.5995670995671
+( 10.92% ) Running dataset: overlap_0_0_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.249217904708109
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.825396825396825 
+		Relevance:  0.172987938785353
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.166666666666667 
+		Relevance:  0.0730714285714284
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.430894544052439 
+		Relevance:  0.363432556712896
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.884963895570155
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.984126984126984 
+		Relevance:  0.608333333333333
+( 11.76% ) Running dataset: overlap_0_0_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.263892810088462
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.857142857142857 
+		Relevance:  0.176177694664632
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2 
+		Relevance:  0.0647186147186146
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.429250772867794 
+		Relevance:  0.391030813606064
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.891148564070083
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   1 
+		Relevance:  0.626915113871636
+( 12.61% ) Running dataset: overlap_3_3_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.299121212121212
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.884920634920635 
+		Relevance:  0.276077429994481
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0771190476190475
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.572946859903382 
+		Relevance:  0.397538292660476
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.863966295842881
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.984126984126984 
+		Relevance:  0.598809523809524
+( 13.45% ) Running dataset: overlap_3_3_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.291810230585741
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.788095238095238 
+		Relevance:  0.197005287011891
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.183333333333333 
+		Relevance:  0.0708809523809523
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.530392156862745 
+		Relevance:  0.395551509492686
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.881422924901186 
+		Relevance:  0.869464814480914
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.967460317460317 
+		Relevance:  0.58847619047619
+( 14.29% ) Running dataset: overlap_3_3_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.269148042762706
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.806349206349206 
+		Relevance:  0.180338222114664
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.116666666666667 
+		Relevance:  0.0669047619047618
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.433471974648445 
+		Relevance:  0.377887881368733
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.87211646251505
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.984126984126984 
+		Relevance:  0.607900432900433
+( 15.13% ) Running dataset: overlap_3_3_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.286148555218764
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.754761904761905 
+		Relevance:  0.178232992497698
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0709783549783549
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.441483516483516 
+		Relevance:  0.431754040091103
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.86519791514993
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.983333333333333 
+		Relevance:  0.59952380952381
+( 15.97% ) Running dataset: overlap_3_3_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.2737249313813
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.770634920634921 
+		Relevance:  0.219691890463775
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0633614718614719
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.389086264948334 
+		Relevance:  0.375501629254274
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.842444303853176
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.968253968253968 
+		Relevance:  0.607467532467532
+( 16.81% ) Running dataset: overlap_6_6_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.968253968253968 
+		Relevance:  0.371737300541648
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.888888888888889 
+		Relevance:  0.162994364104136
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0845043290043289
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.523502798865118 
+		Relevance:  0.363247121895922
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.840628507295174 
+		Relevance:  0.780506872438365
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.916666666666667 
+		Relevance:  0.558
+( 17.65% ) Running dataset: overlap_6_6_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.291934137722181
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.825396825396825 
+		Relevance:  0.155465266940161
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.166666666666667 
+		Relevance:  0.0724999999999999
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.478697318007663 
+		Relevance:  0.325665914324274
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.881422924901186 
+		Relevance:  0.809774787007867
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.919047619047619 
+		Relevance:  0.569215132693394
+( 18.49% ) Running dataset: overlap_6_6_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.334924627414746
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.825396825396825 
+		Relevance:  0.210474638573378
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0840281385281385
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.389129389129389 
+		Relevance:  0.391419074990815
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.859393939393939 
+		Relevance:  0.830509142895783
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.920634920634921 
+		Relevance:  0.597440240918502
+( 19.33% ) Running dataset: overlap_6_6_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.983333333333333 
+		Relevance:  0.339726561552213
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.857142857142857 
+		Relevance:  0.229111937671243
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0625021645021644
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.519444444444444 
+		Relevance:  0.372235050063165
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.839789880838792
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.968253968253968 
+		Relevance:  0.597648033126294
+( 20.17% ) Running dataset: overlap_6_6_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.341740837664751
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.888888888888889 
+		Relevance:  0.275282285653803
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0828831168831168
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.433333333333333 
+		Relevance:  0.3585787330175
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.861530116406656
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.933333333333333 
+		Relevance:  0.576333333333333
+( 21.01% ) Running dataset: overlap_9_9_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.956521739130435 
+		Relevance:  0.331275395533708
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.873015873015873 
+		Relevance:  0.158217138389992
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0805021645021644
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.45198799699925 
+		Relevance:  0.351905307107507
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.895915678524374 
+		Relevance:  0.825880424955639
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.621739130434783 
+		Relevance:  0.37304347826087
+( 21.85% ) Running dataset: overlap_9_9_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.984126984126984 
+		Relevance:  0.30120625128505
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.904761904761905 
+		Relevance:  0.397159818228367
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0860238095238094
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.503235224493017 
+		Relevance:  0.394485246093209
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.883838383838384 
+		Relevance:  0.832255918765454
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.675230566534914 
+		Relevance:  0.420522955305564
+( 22.69% ) Running dataset: overlap_9_9_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.439262057781319
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.888888888888889 
+		Relevance:  0.237443725812183
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.166666666666667 
+		Relevance:  0.0770021645021644
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.48030303030303 
+		Relevance:  0.361719416800578
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.883838383838384 
+		Relevance:  0.827443966122779
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.62644256575416 
+		Relevance:  0.373217391304348
+( 23.53% ) Running dataset: overlap_9_9_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.984126984126984 
+		Relevance:  0.311427459631149
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.904761904761905 
+		Relevance:  0.225244489679919
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0793571428571428
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.454074074074074 
+		Relevance:  0.381863115849877
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.895915678524374 
+		Relevance:  0.812828264838248
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.66897233201581 
+		Relevance:  0.409716732542819
+( 24.37% ) Running dataset: overlap_9_9_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.984126984126984 
+		Relevance:  0.396339088189682
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.888888888888889 
+		Relevance:  0.243320589564922
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0851428571428571
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.530788904190439 
+		Relevance:  0.362220403448025
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.883838383838384 
+		Relevance:  0.835014360477171
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.626093189964158 
+		Relevance:  0.354173913043478
+( 25.21% ) Running dataset: square_15_15_typeI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.929824561403509 
+		Relevance:  0.133132799338791
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.340797940797941 
+		Relevance:  0.171872913738016
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.177777777777778 
+		Relevance:  0.0553071895424837
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.582070707070707 
+		Relevance:  0.321730400813419
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.501225490196078 
+		Relevance:  0.190917339880922
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.254449254449254 
+		Relevance:  0.188383838383838
+( 26.05% ) Running dataset: square_15_15_typeI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.956944444444444 
+		Relevance:  0.146100822785254
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.223684210526316 
+		Relevance:  0.131400930859208
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0461789215686274
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.447426867187004 
+		Relevance:  0.350834312219512
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.470833333333333 
+		Relevance:  0.171293223287355
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.164941338854382 
+		Relevance:  0.122041726389552
+( 26.89% ) Running dataset: square_15_15_typeI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.956944444444444 
+		Relevance:  0.124805295773049
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.302669552669553 
+		Relevance:  0.110991821432138
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.131944444444444 
+		Relevance:  0.035015522875817
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.497222222222222 
+		Relevance:  0.341004747887075
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.377777777777778 
+		Relevance:  0.225194107098939
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.172101449275362 
+		Relevance:  0.112787185354691
+( 27.73% ) Running dataset: square_15_15_typeI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.958333333333333 
+		Relevance:  0.139838192061085
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.320848267622461 
+		Relevance:  0.172287494370559
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.131944444444444 
+		Relevance:  0.0455686274509804
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.597222222222222 
+		Relevance:  0.359934589692147
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.601851851851852 
+		Relevance:  0.204199184612557
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.239814814814815 
+		Relevance:  0.197248572683355
+( 28.57% ) Running dataset: square_15_15_typeI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.96078431372549 
+		Relevance:  0.141273016629054
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.280714756258235 
+		Relevance:  0.144729146564666
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.155555555555556 
+		Relevance:  0.0591241830065359
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.453544061302682 
+		Relevance:  0.377910052910053
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.523529411764706 
+		Relevance:  0.145922284022312
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.119894598155468 
+		Relevance:  0.108974025974026
+( 29.41% ) Running dataset: square_15_15_typeII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.170507017964835
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.358554206380293 
+		Relevance:  0.23145950357074
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.155555555555556 
+		Relevance:  0.0529093137254902
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.614485981308411 
+		Relevance:  0.569635410095403
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.9375 
+		Relevance:  0.841010149152985
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.4875 
+		Relevance:  0.309891304347826
+( 30.25% ) Running dataset: square_15_15_typeII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.938562091503268 
+		Relevance:  0.186629258268964
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.149853801169591 
+		Relevance:  0.0887115443616991
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2 
+		Relevance:  0.0463807189542484
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.41837290525169 
+		Relevance:  0.568588382997964
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.9375 
+		Relevance:  0.849533403732771
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.206885975001917 
+		Relevance:  0.176332134684537
+( 31.09% ) Running dataset: square_15_15_typeII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.191482753228883
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.418932918932919 
+		Relevance:  0.260398672683927
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.280555555555556 
+		Relevance:  0.0556151960784314
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.475783475783476 
+		Relevance:  0.574536005055455
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.9375 
+		Relevance:  0.831681000207793
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.638235294117647 
+		Relevance:  0.418655462184874
+( 31.93% ) Running dataset: square_15_15_typeII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.180381382712402
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.574177893063342 
+		Relevance:  0.292108317699852
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0493496732026144
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.684668284789644 
+		Relevance:  0.520162390198798
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.9375 
+		Relevance:  0.844572916470152
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.3625 
+		Relevance:  0.259920289855072
+( 32.77% ) Running dataset: square_15_15_typeII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.175167439093634
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.266754850088183 
+		Relevance:  0.223291109908265
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2 
+		Relevance:  0.0457050653594771
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.704312865497076 
+		Relevance:  0.525084709322325
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   1 
+		Relevance:  0.790563503666575
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.481944444444444 
+		Relevance:  0.327166666666667
+( 33.61% ) Running dataset: square_15_15_typeIII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.255429153099844
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.163998610716428 
+		Relevance:  0.0666128232144856
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.155555555555556 
+		Relevance:  0.074234477124183
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.27797385620915 
+		Relevance:  0.333194697233732
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.344444444444444 
+		Relevance:  0.303636640583937
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.493736383442266 
+		Relevance:  0.320051353874883
+( 34.45% ) Running dataset: square_15_15_typeIII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.263399934606563
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.279365079365079 
+		Relevance:  0.157262398588246
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0541225490196078
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.306357694592989 
+		Relevance:  0.216746257132629
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.242105263157895 
+		Relevance:  0.114858243369867
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.351851851851852 
+		Relevance:  0.265089466089466
+( 35.29% ) Running dataset: square_15_15_typeIII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.289304413557902
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.181352657004831 
+		Relevance:  0.093120523197368
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.195833333333333 
+		Relevance:  0.0747263071895425
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.219444444444444 
+		Relevance:  0.219819202984838
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.263157894736842 
+		Relevance:  0.10726081030188
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.51030701754386 
+		Relevance:  0.339879862700229
+( 36.13% ) Running dataset: square_15_15_typeIII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.190977731389134
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.162262682850918 
+		Relevance:  0.101905399662386
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.191666666666667 
+		Relevance:  0.0639599673202614
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.251587301587302 
+		Relevance:  0.300776831495786
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.336085311317509 
+		Relevance:  0.211554562345284
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.420833333333333 
+		Relevance:  0.300809178743961
+( 36.97% ) Running dataset: square_15_15_typeIII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.231111449442524
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.364522417153996 
+		Relevance:  0.177743918090417
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.192156862745098 
+		Relevance:  0.0633651960784314
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.267271832938336 
+		Relevance:  0.194232171755187
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.286549707602339 
+		Relevance:  0.169977423858949
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.511695906432749 
+		Relevance:  0.333684210526316
+( 37.82% ) Running dataset: square_15_15_typeIV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.979166666666667 
+		Relevance:  0.144169818823267
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.384873949579832 
+		Relevance:  0.216784045404438
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.194444444444444 
+		Relevance:  0.0392761437908497
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.171491228070175 
+		Relevance:  0.147388527318041
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.5 
+		Relevance:  0.166361062831222
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.250075414781297 
+		Relevance:  0.180188789538635
+( 38.66% ) Running dataset: square_15_15_typeIV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.788819875776398 
+		Relevance:  0.138720693031414
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.318518518518518 
+		Relevance:  0.208971206133318
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0861111111111111 
+		Relevance:  0.0257647058823529
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.414814814814815 
+		Relevance:  0.372872643209331
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.4 
+		Relevance:  0.184607962242311
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.155233494363929 
+		Relevance:  0.113666412407831
+( 39.5% ) Running dataset: square_15_15_typeIV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.717667958656331 
+		Relevance:  0.120782248146332
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.447222222222222 
+		Relevance:  0.194564632055154
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.151388888888889 
+		Relevance:  0.0418415032679739
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.264903193981995 
+		Relevance:  0.239787912465931
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.441176470588235 
+		Relevance:  0.161319293069765
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.16808367071525 
+		Relevance:  0.127365353944301
+( 40.34% ) Running dataset: square_15_15_typeIV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.933333333333333 
+		Relevance:  0.164249090312575
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.492510893246187 
+		Relevance:  0.242693697663506
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.173611111111111 
+		Relevance:  0.0333676470588235
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.250355774493706 
+		Relevance:  0.249669715529027
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.588888888888889 
+		Relevance:  0.267971894916938
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.271929824561404 
+		Relevance:  0.183057208237986
+( 41.18% ) Running dataset: square_15_15_typeIV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.677272727272727 
+		Relevance:  0.0940812183946108
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.31712962962963 
+		Relevance:  0.18540685286834
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.131944444444444 
+		Relevance:  0.037484477124183
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.233187134502924 
+		Relevance:  0.187268570215418
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.38562091503268 
+		Relevance:  0.15488169902991
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.233069828722003 
+		Relevance:  0.164537549407115
+( 42.02% ) Running dataset: square_15_15_typeV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.222772110856005
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.263492063492063 
+		Relevance:  0.130318157389707
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.109722222222222 
+		Relevance:  0.0401732026143791
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.267687074829932 
+		Relevance:  0.301498971122122
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.588888888888889 
+		Relevance:  0.332439436380416
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.234063322298616 
+		Relevance:  0.166195569136746
+( 42.86% ) Running dataset: square_15_15_typeV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.227282094992496
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.305092592592593 
+		Relevance:  0.13815176773481
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.154166666666667 
+		Relevance:  0.0339926470588235
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.605555555555556 
+		Relevance:  0.359023672111371
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.588888888888889 
+		Relevance:  0.32088320020014
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.335403050108932 
+		Relevance:  0.227423648247178
+( 43.7% ) Running dataset: square_15_15_typeV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.895833333333333 
+		Relevance:  0.127768627477289
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.377205882352941 
+		Relevance:  0.205012749716476
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.166666666666667 
+		Relevance:  0.0403374183006536
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.355555555555556 
+		Relevance:  0.284630394857668
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.503921568627451 
+		Relevance:  0.246897473968416
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.323308270676692 
+		Relevance:  0.22703818369453
+( 44.54% ) Running dataset: square_15_15_typeV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.744791666666667 
+		Relevance:  0.143252317203684
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.271650326797386 
+		Relevance:  0.136142851583287
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.109722222222222 
+		Relevance:  0.0422532679738562
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.383711615487316 
+		Relevance:  0.547599749470745
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.598692810457516 
+		Relevance:  0.308676693891711
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.271147106185469 
+		Relevance:  0.197536748559766
+( 45.38% ) Running dataset: square_15_15_typeV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.209525972119585
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.390277777777778 
+		Relevance:  0.183043887020495
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.176388888888889 
+		Relevance:  0.0498725490196079
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.301298701298701 
+		Relevance:  0.375102373364405
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.597222222222222 
+		Relevance:  0.296247918198423
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.379770531400966 
+		Relevance:  0.254777432712215
+( 46.22% ) Running dataset: square_15_15_typeVI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.96078431372549 
+		Relevance:  0.158251965450398
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.390277777777778 
+		Relevance:  0.175341708673994
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.266666666666667 
+		Relevance:  0.0429558823529412
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.473180076628352 
+		Relevance:  0.300343249427918
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.362229102167183 
+		Relevance:  0.222117467749792
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.219433465085639 
+		Relevance:  0.168136645962733
+( 47.06% ) Running dataset: square_15_15_typeVI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.770833333333333 
+		Relevance:  0.102595036373349
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.446929824561404 
+		Relevance:  0.22431859752172
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.259722222222222 
+		Relevance:  0.0497761437908497
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.324358974358974 
+		Relevance:  0.423550257548593
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.483918128654971 
+		Relevance:  0.542644943560949
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.409722222222222 
+		Relevance:  0.266359649122807
+( 47.9% ) Running dataset: square_15_15_typeVI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.977777777777778 
+		Relevance:  0.141058193277311
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.448309178743961 
+		Relevance:  0.197069810247617
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2625 
+		Relevance:  0.0498864379084967
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.377018933898746 
+		Relevance:  0.3414125276668
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.526143790849673 
+		Relevance:  0.240326331354996
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.303623188405797 
+		Relevance:  0.215565217391304
+( 48.74% ) Running dataset: square_15_15_typeVI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.939950980392157 
+		Relevance:  0.145029341172287
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.413888888888889 
+		Relevance:  0.198748440216816
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.244444444444444 
+		Relevance:  0.0412647058823529
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.327736380195397 
+		Relevance:  0.366651032153213
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.391640866873065 
+		Relevance:  0.24425019499423
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.271984805318139 
+		Relevance:  0.199071434241713
+( 49.58% ) Running dataset: square_15_15_typeVI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.169020577576284
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.493055555555556 
+		Relevance:  0.204114383546369
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.222222222222222 
+		Relevance:  0.0412834967320261
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.362091503267974 
+		Relevance:  0.356087120268555
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.55119825708061 
+		Relevance:  0.430353208846062
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.232247284878864 
+		Relevance:  0.173406341941811
+( 50.42% ) Running dataset: square_20_20_typeI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.976190476190476 
+		Relevance:  0.672105263157895
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.548383500557414 
+		Relevance:  0.228410288857628
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0331428571428571
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.489755639097744 
+		Relevance:  0.435308272327723
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.675595238095238 
+		Relevance:  0.425701808128335
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.286179546260191 
+		Relevance:  0.247758192863866
+( 51.26% ) Running dataset: square_20_20_typeI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.91547619047619 
+		Relevance:  0.469033613445378
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.501748251748252 
+		Relevance:  0.258383952256163
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0738095238095238 
+		Relevance:  0.0335497835497835
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.264596273291925 
+		Relevance:  0.375435751375649
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.671590909090909 
+		Relevance:  0.426416278456963
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.185832743452321 
+		Relevance:  0.153784039879702
+( 52.1% ) Running dataset: square_20_20_typeI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.951785714285714 
+		Relevance:  0.523615600086188
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.555011261261261 
+		Relevance:  0.337024164103265
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0427878787878787
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.451237990482176 
+		Relevance:  0.412740574514391
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.725 
+		Relevance:  0.453890686220783
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.468886588451806 
+		Relevance:  0.415109270761445
+( 52.94% ) Running dataset: square_20_20_typeI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.395427489177489
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.478122529644269 
+		Relevance:  0.281929123280934
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0869047619047619 
+		Relevance:  0.0344761904761904
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.414943609022556 
+		Relevance:  0.406123752714894
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.691071428571429 
+		Relevance:  0.446291977271557
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.314542138895587 
+		Relevance:  0.255662478048462
+( 53.78% ) Running dataset: square_20_20_typeI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.435122230710466
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.495696793516561 
+		Relevance:  0.296979765687357
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0607142857142857 
+		Relevance:  0.0248095238095238
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.596188077564005 
+		Relevance:  0.42888107581904
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.7 
+		Relevance:  0.458903646281943
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.381666666666667 
+		Relevance:  0.334962962962963
+( 54.62% ) Running dataset: square_20_20_typeII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.3380355276907
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.861471861471861 
+		Relevance:  0.255604417162773
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.125 
+		Relevance:  0.0387640692640692
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.35294723428501 
+		Relevance:  0.507404193144319
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.878399425231195
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.728166760775457 
+		Relevance:  0.603961980048937
+( 55.46% ) Running dataset: square_20_20_typeII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.9875 
+		Relevance:  0.318307131465026
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.658465628574324 
+		Relevance:  0.420737670935994
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133928571428571 
+		Relevance:  0.0448333333333333
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.428089100196384 
+		Relevance:  0.532269980220202
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.849310517597363
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.858549783549784 
+		Relevance:  0.702839826839827
+( 56.3% ) Running dataset: square_20_20_typeII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.318810599731652
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.656818181818182 
+		Relevance:  0.24501754004995
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0553571428571428
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.535757897104663 
+		Relevance:  0.537186318914115
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.862860895328144
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.95 
+		Relevance:  0.767692307692308
+( 57.14% ) Running dataset: square_20_20_typeII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.9875 
+		Relevance:  0.435304950425918
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.577608070255129 
+		Relevance:  0.222775458828691
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.15 
+		Relevance:  0.0524047619047618
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.525647742854919 
+		Relevance:  0.548904011155083
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.873848131739438
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.926190476190476 
+		Relevance:  0.748952380952381
+( 57.98% ) Running dataset: square_20_20_typeII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.316166592028661
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.57496921182266 
+		Relevance:  0.219095628546152
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0869047619047619 
+		Relevance:  0.0378571428571428
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.490498082047378 
+		Relevance:  0.550820738928217
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.909090909090909 
+		Relevance:  0.852169075571566
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.778409090909091 
+		Relevance:  0.63013468013468
+( 58.82% ) Running dataset: square_20_20_typeIII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.335850577926343
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.208355614973262 
+		Relevance:  0.131219827876432
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0619350649350648
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.192640692640693 
+		Relevance:  0.20818126129831
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.225 
+		Relevance:  0.115204489821774
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.589880952380952 
+		Relevance:  0.480995670995671
+( 59.66% ) Running dataset: square_20_20_typeIII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.301786981134807
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.253159824046921 
+		Relevance:  0.145997942043088
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0994047619047619 
+		Relevance:  0.0599848484848484
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.220638603560458 
+		Relevance:  0.248870519502635
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.294358974358974 
+		Relevance:  0.30448437370339
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.552619047619048 
+		Relevance:  0.460277056277056
+( 60.5% ) Running dataset: square_20_20_typeIII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.297846950137243
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.215588624338624 
+		Relevance:  0.133666556134818
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0557619047619047
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.175956780269774 
+		Relevance:  0.222844193341069
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.277173913043478 
+		Relevance:  0.175724697313185
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.5504329004329 
+		Relevance:  0.44034632034632
+( 61.34% ) Running dataset: square_20_20_typeIII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.279045908141466
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.224180423157405 
+		Relevance:  0.14697549917014
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0578095238095237
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.185648148148148 
+		Relevance:  0.176624865788952
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.269642857142857 
+		Relevance:  0.215206803245309
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.351708074534161 
+		Relevance:  0.303588681849551
+( 62.18% ) Running dataset: square_20_20_typeIII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.272678169530292
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.248669623059867 
+		Relevance:  0.150455016703228
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0582683982683982
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.222936259143156 
+		Relevance:  0.192786801630897
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.264673913043478 
+		Relevance:  0.182698443649753
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.524810606060606 
+		Relevance:  0.4352331002331
+( 63.03% ) Running dataset: square_20_20_typeIV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.942307692307692 
+		Relevance:  0.353604728604729
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.291428571428571 
+		Relevance:  0.167272126978373
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.110714285714286 
+		Relevance:  0.0323116883116883
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.328290043290043 
+		Relevance:  0.33312773359285
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.522230848861284 
+		Relevance:  0.358939112299073
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.129794973544974 
+		Relevance:  0.122585978835979
+( 63.87% ) Running dataset: square_20_20_typeIV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.988095238095238 
+		Relevance:  0.34034632034632
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.350974025974026 
+		Relevance:  0.190147746871161
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.148214285714286 
+		Relevance:  0.036573593073593
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.296059113300493 
+		Relevance:  0.207541960845486
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.458333333333333 
+		Relevance:  0.151913227909561
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.262567706045967 
+		Relevance:  0.21652060903403
+( 64.71% ) Running dataset: square_20_20_typeIV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.976190476190476 
+		Relevance:  0.385035599321314
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.433874458874459 
+		Relevance:  0.216070957477728
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.123809523809524 
+		Relevance:  0.0405541125541125
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.325558061756242 
+		Relevance:  0.22367425934181
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.489285714285714 
+		Relevance:  0.130222010160322
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.272518115942029 
+		Relevance:  0.243014492753623
+( 65.55% ) Running dataset: square_20_20_typeIV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.95 
+		Relevance:  0.30612863327149
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.430070111048372 
+		Relevance:  0.228773624214465
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.185714285714286 
+		Relevance:  0.061095238095238
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.271072747261865 
+		Relevance:  0.224458624020937
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.458874458874459 
+		Relevance:  0.238293168792276
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.22698268921095 
+		Relevance:  0.195871865654474
+( 66.39% ) Running dataset: square_20_20_typeIV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.935185185185185 
+		Relevance:  0.306149868649869
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.378571428571429 
+		Relevance:  0.189741102058135
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.125 
+		Relevance:  0.0413333333333333
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.2416965418008 
+		Relevance:  0.338735856426353
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.357010582010582 
+		Relevance:  0.265434912248252
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.354914361001318 
+		Relevance:  0.303931488801054
+( 67.23% ) Running dataset: square_20_20_typeV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.278461304777094
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.395833333333333 
+		Relevance:  0.235015117877733
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0357878787878788
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.37670137462856 
+		Relevance:  0.419394268421433
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.542857142857143 
+		Relevance:  0.383150941039254
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.352296254470168 
+		Relevance:  0.303265575004705
+( 68.07% ) Running dataset: square_20_20_typeV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.281414797323888
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.348443223443223 
+		Relevance:  0.163793033353708
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0414805194805194
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.262254558204769 
+		Relevance:  0.250454110428644
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.538041125541125 
+		Relevance:  0.42111187624441
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.356715969215969 
+		Relevance:  0.307635697635698
+( 68.91% ) Running dataset: square_20_20_typeV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.272371079836215
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.385778985507246 
+		Relevance:  0.181842698450421
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.124404761904762 
+		Relevance:  0.0411666666666666
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.425874430447601 
+		Relevance:  0.351966684109541
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.7 
+		Relevance:  0.476597303248251
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.2382481648786 
+		Relevance:  0.224937156241504
+( 69.75% ) Running dataset: square_20_20_typeV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.263651553125237
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.466450216450216 
+		Relevance:  0.223036888871165
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.122619047619048 
+		Relevance:  0.0526428571428571
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.381640972254714 
+		Relevance:  0.309291086654271
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.615513833992095 
+		Relevance:  0.401029018490366
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.403562017692452 
+		Relevance:  0.339516280820629
+( 70.59% ) Running dataset: square_20_20_typeV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.928571428571429 
+		Relevance:  0.299567099567099
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.407142857142857 
+		Relevance:  0.216795251029125
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0994047619047619 
+		Relevance:  0.0382380952380952
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.233591540776361 
+		Relevance:  0.235145493510054
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.561850649350649 
+		Relevance:  0.417835860342618
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.385822510822511 
+		Relevance:  0.316065416065416
+( 71.43% ) Running dataset: square_20_20_typeVI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.379396000824572
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.470238095238095 
+		Relevance:  0.215845576389318
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.225 
+		Relevance:  0.0482142857142857
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.232626720901126 
+		Relevance:  0.348105487057466
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.519771894771895 
+		Relevance:  0.425320442642219
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.527680652680653 
+		Relevance:  0.437529137529137
+( 72.27% ) Running dataset: square_20_20_typeVI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.355890486325269
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.4125 
+		Relevance:  0.180254975751005
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.161904761904762 
+		Relevance:  0.0398095238095238
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.3620108004204 
+		Relevance:  0.318143364637356
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.521028138528139 
+		Relevance:  0.338292308608156
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.342316341829085 
+		Relevance:  0.313725752508361
+( 73.11% ) Running dataset: square_20_20_typeVI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.378066378066378
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.408653846153846 
+		Relevance:  0.208485821532069
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.20952380952381 
+		Relevance:  0.0466948051948052
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.24537519929311 
+		Relevance:  0.278863441363441
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.602272727272727 
+		Relevance:  0.333012410013379
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.587944664031621 
+		Relevance:  0.537022397891963
+( 73.95% ) Running dataset: square_20_20_typeVI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   1 
+		Relevance:  0.357021069297284
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.389880952380952 
+		Relevance:  0.211491699612998
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.220833333333333 
+		Relevance:  0.0393809523809523
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.23792103670835 
+		Relevance:  0.393015039043671
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.528985507246377 
+		Relevance:  0.353107109905347
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.518840579710145 
+		Relevance:  0.435072463768116
+( 74.79% ) Running dataset: square_20_20_typeVI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.988095238095238 
+		Relevance:  0.412566137566138
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.432738095238095 
+		Relevance:  0.199941679695925
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.2625 
+		Relevance:  0.0537619047619047
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.428717071935157 
+		Relevance:  0.292882870178869
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.715909090909091 
+		Relevance:  0.33684431936499
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.419933215210577 
+		Relevance:  0.344279905501795
+( 75.63% ) Running dataset: square_25_25_typeI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.587307692307692
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.551605487578791 
+		Relevance:  0.305186106306807
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0295692307692308
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.413275276333696 
+		Relevance:  0.481020037786609
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.622728937728938 
+		Relevance:  0.587192441264245
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.322045855379189 
+		Relevance:  0.383382829834443
+( 76.47% ) Running dataset: square_25_25_typeI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.648925518925519
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.539306774330875 
+		Relevance:  0.285177745820457
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0597435897435898 
+		Relevance:  0.0349417249417249
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.316480836151366 
+		Relevance:  0.415993990447772
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.632649572649573 
+		Relevance:  0.576688402392663
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.362964754867464 
+		Relevance:  0.435077513764126
+( 77.31% ) Running dataset: square_25_25_typeI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.826666666666667 
+		Relevance:  0.735128205128205
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.576012378426172 
+		Relevance:  0.293425715743838
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.033315649867374
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.32091896781016 
+		Relevance:  0.447942531601652
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.63051282051282 
+		Relevance:  0.591350011569977
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.337063129128387 
+		Relevance:  0.404475754954064
+( 78.15% ) Running dataset: square_25_25_typeI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.813589743589744 
+		Relevance:  0.865641025641026
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.59514652014652 
+		Relevance:  0.30810516051835
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0350039651070579
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.412105160178862 
+		Relevance:  0.453221042689075
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.632051282051282 
+		Relevance:  0.60604131409187
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.490089221123704 
+		Relevance:  0.588107065348445
+( 78.99% ) Running dataset: square_25_25_typeI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.82025641025641 
+		Relevance:  0.745128205128205
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.535049202606674 
+		Relevance:  0.344247424233966
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0597435897435897 
+		Relevance:  0.0288
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.385431308997371 
+		Relevance:  0.446502703713287
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.65 
+		Relevance:  0.568050351905335
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.352488711001642 
+		Relevance:  0.429036873370038
+( 79.83% ) Running dataset: square_25_25_typeII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.903846153846154
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.725200725200725 
+		Relevance:  0.366616680935289
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0933333333333333 
+		Relevance:  0.0532671629445823
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.33335935646438 
+		Relevance:  0.564788454916806
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.744047619047619 
+		Relevance:  0.849497913464571
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.793333333333333 
+		Relevance:  0.952
+( 80.67% ) Running dataset: square_25_25_typeII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.547100591715976
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.700569800569801 
+		Relevance:  0.270213896024072
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.113076923076923 
+		Relevance:  0.0497194570135747
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.233929595229905 
+		Relevance:  0.61350690716736
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.744047619047619 
+		Relevance:  0.859211077019233
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.756410256410256 
+		Relevance:  0.907692307692308
+( 81.51% ) Running dataset: square_25_25_typeII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.734153846153846
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.763532763532763 
+		Relevance:  0.403507609881559
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0664102564102564 
+		Relevance:  0.0526461538461538
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.498107448107448 
+		Relevance:  0.576585402916784
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.744047619047619 
+		Relevance:  0.858454731847192
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.727179487179487 
+		Relevance:  0.872615384615385
+( 82.35% ) Running dataset: square_25_25_typeII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.584188034188034
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.556353276353276 
+		Relevance:  0.433405988876932
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0311230769230769
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.515683481369756 
+		Relevance:  0.553506619741914
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.744047619047619 
+		Relevance:  0.842767562898716
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.727948717948718 
+		Relevance:  0.873538461538461
+( 83.19% ) Running dataset: square_25_25_typeII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.548951048951049
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.657924929476654 
+		Relevance:  0.378236066215246
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0345846153846154
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.35207186207305 
+		Relevance:  0.654450107113285
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.744047619047619 
+		Relevance:  0.856515589055887
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.728205128205128 
+		Relevance:  0.873846153846154
+( 84.03% ) Running dataset: square_25_25_typeIII_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.33267587113741
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.161154401154401 
+		Relevance:  0.123206907418957
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0472461538461538
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.149906540086138 
+		Relevance:  0.247205377528699
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.237771244945883 
+		Relevance:  0.276503339227751
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.443718155167431 
+		Relevance:  0.548803615286374
+( 84.87% ) Running dataset: square_25_25_typeIII_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.355769230769231
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.248926875593542 
+		Relevance:  0.152387944701105
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.048862678062678
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.200014749435763 
+		Relevance:  0.188175652940056
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.181787634408602 
+		Relevance:  0.150918939513084
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.501566951566952 
+		Relevance:  0.601880341880342
+( 85.71% ) Running dataset: square_25_25_typeIII_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.350783475783476
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.251775878442545 
+		Relevance:  0.15479640430542
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0733333333333333 
+		Relevance:  0.0465703703703703
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.132332358396737 
+		Relevance:  0.126304042433075
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.175403225806452 
+		Relevance:  0.141375254484733
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.408205128205128 
+		Relevance:  0.502749379652605
+( 86.55% ) Running dataset: square_25_25_typeIII_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.39957264957265
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.183076595571417 
+		Relevance:  0.1239866572065
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0484
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.161309000804942 
+		Relevance:  0.208179981926112
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.222691879866518 
+		Relevance:  0.220679748809074
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.415384615384615 
+		Relevance:  0.518461538461539
+( 87.39% ) Running dataset: square_25_25_typeIII_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.376923076923077
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.196162088447302 
+		Relevance:  0.114937311455439
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0666666666666667 
+		Relevance:  0.0467549857549857
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.109440524479415 
+		Relevance:  0.222325095286664
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.212464692138799 
+		Relevance:  0.397496650708333
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.41502775002775 
+		Relevance:  0.4980333000333
+( 88.24% ) Running dataset: square_25_25_typeIV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.418269230769231
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.313076923076923 
+		Relevance:  0.197610813520516
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0933333333333333 
+		Relevance:  0.0453076923076923
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.252239289077213 
+		Relevance:  0.240532521238445
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.341710758377425 
+		Relevance:  0.308963060086876
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.229993824821411 
+		Relevance:  0.267103700896804
+( 89.08% ) Running dataset: square_25_25_typeIV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.820512820512821 
+		Relevance:  0.516025641025641
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.329498608626516 
+		Relevance:  0.2181927420005
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.106666666666667 
+		Relevance:  0.0421538461538461
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.19702045969055 
+		Relevance:  0.24735815330488
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.430731244064577 
+		Relevance:  0.165284663557948
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.239353985321727 
+		Relevance:  0.288613671274962
+( 89.92% ) Running dataset: square_25_25_typeIV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.541958041958042
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.304037680665588 
+		Relevance:  0.180532182823418
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.113333333333333 
+		Relevance:  0.0440307692307692
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.16000293016045 
+		Relevance:  0.339092649059969
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.378422195088862 
+		Relevance:  0.149169799905053
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.248621131954465 
+		Relevance:  0.298345358345358
+( 90.76% ) Running dataset: square_25_25_typeIV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.820512820512821 
+		Relevance:  0.713504273504274
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.354339981006648 
+		Relevance:  0.205697260402609
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.106666666666667 
+		Relevance:  0.0475076923076923
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.176302666536657 
+		Relevance:  0.198167353005303
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.343837535014006 
+		Relevance:  0.191834713290593
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.214062775928902 
+		Relevance:  0.23638851569886
+( 91.6% ) Running dataset: square_25_25_typeIV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.826923076923077 
+		Relevance:  0.512820512820513
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.354542124542125 
+		Relevance:  0.187044060439047
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0930769230769231 
+		Relevance:  0.0349076923076923
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.226706349206349 
+		Relevance:  0.236191932352923
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.370099036765703 
+		Relevance:  0.141290691876376
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.238495196324144 
+		Relevance:  0.259757453979777
+( 92.44% ) Running dataset: square_25_25_typeV_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.452066554730262
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.367863247863248 
+		Relevance:  0.247593375212081
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0866666666666667 
+		Relevance:  0.0367846153846154
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.253995514177162 
+		Relevance:  0.313063086515295
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.515128205128205 
+		Relevance:  0.463476021760406
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.353333333333333 
+		Relevance:  0.424
+( 93.28% ) Running dataset: square_25_25_typeV_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.414027149321267
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.307692307692308 
+		Relevance:  0.185741512510095
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.08 
+		Relevance:  0.0340923076923077
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.301074081015455 
+		Relevance:  0.326563596358296
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.442716049382716 
+		Relevance:  0.606973676327009
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.395128205128205 
+		Relevance:  0.474153846153846
+( 94.12% ) Running dataset: square_25_25_typeV_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.394982589427034
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.303846153846154 
+		Relevance:  0.162060229668937
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.0933333333333333 
+		Relevance:  0.0420923076923077
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.269253781624248 
+		Relevance:  0.272132232692466
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.395366268815881 
+		Relevance:  0.50915881150436
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.29379262712596 
+		Relevance:  0.334602434602435
+( 94.96% ) Running dataset: square_25_25_typeV_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.376882376882377
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.23993783993784 
+		Relevance:  0.169698866467138
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.08 
+		Relevance:  0.0300769230769231
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.187231894987649 
+		Relevance:  0.356725667555692
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.528507326007326 
+		Relevance:  0.597049988604522
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.212827843204187 
+		Relevance:  0.254656084656085
+( 95.8% ) Running dataset: square_25_25_typeV_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.394935752078609
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.329477682811016 
+		Relevance:  0.208384436551302
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.08 
+		Relevance:  0.0416
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.220417884124352 
+		Relevance:  0.540573345504949
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.484938271604938 
+		Relevance:  0.476066319095044
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.28097593614835 
+		Relevance:  0.320954907161804
+( 96.64% ) Running dataset: square_25_25_typeVI_data1.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.826923076923077 
+		Relevance:  0.752747252747253
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.31395173453997 
+		Relevance:  0.205381698660733
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0559692307692308
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.244121837795534 
+		Relevance:  0.329460976872091
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.398117249618918 
+		Relevance:  0.35638302662404
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.473958444911355 
+		Relevance:  0.568750133893627
+( 97.48% ) Running dataset: square_25_25_typeVI_data2.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.713504273504274
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.330769230769231 
+		Relevance:  0.208711186623217
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.14 
+		Relevance:  0.0428769230769231
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.162639715496258 
+		Relevance:  0.364513272147617
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.419969451578647 
+		Relevance:  0.419295284033001
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.406915615248949 
+		Relevance:  0.539911641524545
+( 98.32% ) Running dataset: square_25_25_typeVI_data3.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.514464168310322
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.368317307692308 
+		Relevance:  0.172511574263752
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.14 
+		Relevance:  0.0526249008723235
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.182817050493015 
+		Relevance:  0.396386215199894
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.428759161360087 
+		Relevance:  0.520444590524479
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.508850902184235 
+		Relevance:  0.610621082621083
+( 99.16% ) Running dataset: square_25_25_typeVI_data4.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.506410256410257
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.319420702754036 
+		Relevance:  0.173317004315517
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.1 
+		Relevance:  0.0432
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.247038059043631 
+		Relevance:  0.331011232991431
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.438254439088699 
+		Relevance:  0.341056897478259
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.434833808167141 
+		Relevance:  0.583339031339031
+( 100% ) Running dataset: square_25_25_typeVI_data5.txt
+	UniBic (UNIversal BIClustering Algorithm)
+		Recovery:   0.833333333333333 
+		Relevance:  0.505698005698006
+	ISA (Iterative Signature Algorithm):
+		Recovery:   0.348907882241216 
+		Relevance:  0.20725682792725
+	QUBIC (QUalitative BIClustering Algorithm):
+		Recovery:   0.133333333333333 
+		Relevance:  0.0477384615384615
+	OPSM (Order-Preserving SubMatrix):
+		Recovery:   0.171801409541087 
+		Relevance:  0.351723438553834
+	BicPAMS (Biclustering PAttern Mining Software):
+		Recovery:   0.607148815482149 
+		Relevance:  0.482670668844471
+	FABIA (Factor Analysis for Bicluster Acquisition)
+		Recovery:   0.413447293447293 
+		Relevance:  0.562803418803419
