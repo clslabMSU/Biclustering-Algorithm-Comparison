@@ -12,6 +12,10 @@
 5. Run GenerateReport.R. You can tail the file out.txt to see the program status as it runs.
 
 ### Citations
+Quality Measures for Gene Expression Biclusters:
+
+Pontes, B., Girldez, R., & Aguilar-Ruiz, J. S. (2015). Quality measures for gene expression biclusters. PloS one, 10(3), e0115497.
+
 ISA:
 
 Bergmann, S., Ihmels, J., & Barkai, N. (2003). Iterative signature algorithm for the analysis of large-scale gene expression data. Physical review E, 67(3), 031902.
